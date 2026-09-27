@@ -2,6 +2,8 @@
 
 End-to-end GOOSE/MMS protection pipeline that links fault current detection to automatic relay-breaker tripping, with real-time visualization on a live dashboard. Built to demonstrate substation protection automation using industry-standard IEC 61850 communication.
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![IEC 61850](https://img.shields.io/badge/Protocol-IEC%2061850-green)
+
 ## Architecture
 
 ```mermaid
