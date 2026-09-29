@@ -35,7 +35,7 @@ End-to-end fault-to-trip time measured at approximately 40 ms in this simulated 
 
 | Component | Description | Repo |
 |---|---|---|
-| GOOSE Relay-Breaker Communication | Publisher-subscriber IEDs exchanging GOOSE trip signals over the network | [goose-relay-breaker](https://github.com/muhammadshahzaibshahzaib92-dev/goose-relay-breaker) |
+| GOOSE Relay-Breaker Communication | Publisher-subscriber IEDs exchanging GOOSE trip signals over the network | [goose-relay-breaker](https://github.com/muhammadshahzaibshahzaib92-dev/goose-relay-breaker-communication) |
 | Fault-to-GOOSE Protection Logic | Links pandapower fault current detection to automatic GOOSE trip triggering | [fault-to-goose-integration](https://github.com/muhammadshahzaibshahzaib92-dev/fault-to-goose-integration) |
 | Substation Live Monitoring Dashboard | Real-time relay/breaker status, event log, and fault graph in browser | [substation-monitoring-dashboard](https://github.com/muhammadshahzaibshahzaib92-dev/substation-monitoring-dashboard) |
 
